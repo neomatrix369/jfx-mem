@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="con" path="/home/saiubuntu/git-repos/jfx-mem/lib/jfx-mem.jar"/>
+	<classpathentry kind="lib" path="/home/saiubuntu/git-repos/jfx-mem/lib/junit/junit-3.8.2-api.zip"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-7-openjdk-i386/lib/tools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

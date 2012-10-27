@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>jfx-mem</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>build</name>
+			<type>2</type>
+			<location>/home/saiubuntu/git-repos/jfx-mem/build</location>
+		</link>
+		<link>
+			<name>build.properties</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/git-repos/jfx-mem/build.properties</locationURI>
+		</link>
+		<link>
+			<name>build.xml</name>
+			<type>1</type>
+			<location>/home/saiubuntu/git-repos/jfx-mem/build.xml</location>
+		</link>
+		<link>
+			<name>jfx-mem.jar</name>
+			<type>2</type>
+			<location>/home/saiubuntu/git-repos/jfx-mem/lib/jfx-mem.jar</location>
+		</link>
+		<link>
+			<name>src</name>
+			<type>2</type>
+			<location>/home/saiubuntu/git-repos/jfx-mem/src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
