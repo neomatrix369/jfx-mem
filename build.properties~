@@ -18,7 +18,7 @@ build.test.results.dir=${build.dir}/test/results
 compile.on.save=true
 compile.on.save.unsupported.javafx=true
 
-platforms.JDK_1.7.home=/usr/lib/jvm/java-7-openjdk-i386/
+platforms.JDK_1.7.home=/usr/lib/jvm/java-7-openjdk-i386/jre/bin/java/
 
 # Uncomment to specify the preferred debugger connection transport:
 #debug.transport=dt_socket
